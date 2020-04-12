@@ -1,0 +1,11 @@
+This file contains the list of valid urls to fetch data using api
+
+1. To get the sources
+https://newsapi.org/v2/sources?apiKey=${this.apiKey}
+
+2. To get top-headlines from India (respective country)
+https://newsapi.org/v2/top-headlines?country=in&apiKey=${this.apiKey}
+
+3. To get news based on sources
+https://newsapi.org/v2/top-headlines?sources=bbc-news&apiKey=c94fffd511d7466f970180f14dfb71a7
+
